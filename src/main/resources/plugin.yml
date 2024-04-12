@@ -1,0 +1,14 @@
+name: SquidGames
+version: 1.2
+main: p.squidgames.SquidGames
+author: Spinnin34
+commands:
+  tarea:
+    description: Usar al terminar traea requiere de un permisos
+    usage: /tarea <pendiente/echo> <texto>
+  numero:
+    usage: /numero <numero> [jugador]
+    description: Pon numero a los jugadores
+    permission: lolame.admin.numero
+  luzmanager:
+    usage: /luzmanager <on/off>
