@@ -93,7 +93,7 @@ public class LuzVerdeLuzRojaListener implements Listener {
 
     private void broadcastRedLight() {
         Plugin plugin = SquidGames.getInstance();
-        plugin.getServer().broadcastMessage("¡Luz Roja!");
+        plugin.getServer().broadcastMessage("¡Luz Roja njfdubhjfdgvjnb!");
     }
 
 
